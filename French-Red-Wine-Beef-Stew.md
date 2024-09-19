@@ -1,6 +1,6 @@
 # Beef Bourguignon
 
-## Rating:
+## Rating
 10/10
 
 ## Ingredients

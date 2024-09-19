@@ -1,6 +1,6 @@
 # French Red Wine Chicken Stew
 
-## Rating:
+## Rating
 9/10
 
 ## Ingredients

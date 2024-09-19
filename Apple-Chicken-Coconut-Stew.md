@@ -1,6 +1,6 @@
 # Apple Chicken Stew
 
-## Rating:
+## Rating
 not sure yet, un-eaten so far.
 
 ## Ingredients
