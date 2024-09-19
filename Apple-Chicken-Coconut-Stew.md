@@ -1,7 +1,8 @@
 # Apple Chicken Stew
 
 ## Rating
-not sure yet, un-eaten so far.
+8/10
+maybe a touch too sweet. Use less apples (one) or use tartier apples (granny smith) next time
 
 ## Ingredients
 
@@ -9,7 +10,7 @@ not sure yet, un-eaten so far.
 - Chicken thigs, boneless, 1kg
 - 2 Onions
 - 3 gloves of garlic
-- Apple Cider, 300 mL
+- Apple Cider, 300 mL, Bilpin
 - Coconut Cream, 400 mL
 - 2 Potatoes
 - 2 Apples
